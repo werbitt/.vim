@@ -13,6 +13,7 @@
 [submodule "bundle/vim-conque"]
 	path = bundle/vim-conque
 	url = https://github.com/rson/vim-conque.git
+	ignore = untracked
 [submodule "bundle/nerdcommenter"]
 	path = bundle/nerdcommenter
 	url = https://github.com/ddollar/nerdcommenter.git
