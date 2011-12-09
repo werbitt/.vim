@@ -39,3 +39,6 @@
 [submodule "bundle/haskell"]
 	path = bundle/haskell
 	url = https://github.com/vim-scripts/haskell.vim.git
+[submodule "bundle/indent-haskell"]
+	path = bundle/indent-haskell
+	url = https://github.com/vim-scripts/indenthaskell.vim.git
