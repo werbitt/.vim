@@ -1,5 +1,6 @@
 set wrap
 set linebreak
+set breakat=\ " 
 
 "Move up and down within long lines
 nnoremap <silent> k gk
